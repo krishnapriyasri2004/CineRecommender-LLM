@@ -55,8 +55,8 @@ python main.py  # Replace with your actual main script
 * Python
 * OpenAI GPT (LLM)
 * dotenv (for secret management)
-* Flask / Streamlit (if used)
-* Pandas / NumPy (if used)
+* Streamlit 
+* Pandas / NumPy
 
 ---
 
