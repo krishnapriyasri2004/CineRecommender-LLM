@@ -66,13 +66,6 @@ python main.py  # Replace with your actual main script
 📍 Final Year Student, Decision and Computing
 🔗 GitHub: [@krishnapriyasri2004](https://github.com/krishnapriyasri2004)
 
----
-
-## 📜 License
-
-This project is under the [MIT License](LICENSE). Feel free to use and modify it for educational or personal use.
-
-
 ⭐ If you found this helpful, leave a star on the repo!
 
 
