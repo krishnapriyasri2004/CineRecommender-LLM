@@ -17,7 +17,7 @@ git clone https://github.com/krishnapriyasri2004/CineRecommender-LLM.git
 cd CineRecommender-LLM
 ````
 
-### 2. Create Virtual Environment (Optional but Recommended)
+### 2. Create Virtual Environment (Recommended)
 
 ```bash
 python -m venv venv
